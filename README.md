@@ -86,3 +86,9 @@ animations, with applications in upscaling and restoration. Additionally, this p
 lays the foundation for extending deep learning-based super-resolution techniques to
 other video types, such as 3D animation, opening opportunities for broader
 applications in video enhancement.
+
+Group Members:
+Xingjian Li
+Hankun Wang
+Zixuan Xia
+Yu Tao
